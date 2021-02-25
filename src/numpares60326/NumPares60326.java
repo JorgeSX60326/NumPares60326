@@ -17,7 +17,7 @@ public class NumPares60326 {
     public static void main(String[] args) {
         
         int num = 0;
-        while (num < 48) {
+        while (num < 94) {
              if (num%2 == 0) {
              System.out.println("num = " + num);
              
